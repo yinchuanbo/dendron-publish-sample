@@ -1,0 +1,28 @@
+{
+  "roots": [
+    {
+      "key": "root",
+      "title": "root",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "Dendron",
+      "navExclude": false,
+      "children": [
+        {
+          "key": "c1bs7wsjfbhb0zipaywqv1",
+          "title": "Tutorial",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Dendron",
+          "navExclude": false,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "403": null,
+    "root": null,
+    "c1bs7wsjfbhb0zipaywqv1": "root"
+  }
+}
